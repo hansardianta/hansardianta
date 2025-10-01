@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Hans 👋  
 
-<!--
-**hansardianta/hansardianta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year college student | 📊 Aspiring Data Analyst | 📈 Passionate about data-driven insights  
 
-Here are some ideas to get you started:
+## 🔍 About Me  
+- 🌱 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn, Power BI, Tableau), Machine Learning (Sci-kit Learn), Deep Learning (Tensorflow, Pytorch)
+- 🎯 Goal: To turn raw data into actionable insights that help decision-making  
+- 🤝 Open to collaborating on data projects and internships  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages**: Python, SQL, R  
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow, Pytorch, Streamlit, FastAPI
+- **Databases**: MySQL, PostgreSQL  
+- **Visualization**: Tableau, Power BI, Excel  
+- **Other Tools**: Git, Jupyter Notebook, Google Workspace, Microsoft Office 365  
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hansardianta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hans-ardianta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansardianta@gmail.com) 
