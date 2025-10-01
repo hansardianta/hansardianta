@@ -2,12 +2,7 @@
 
 🎓 Third-year college student | 📊 Aspiring Data Analyst | 📈 Passionate about data-driven insights  
 
-## 🔍 About Me  
-- 🌱 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn, Power BI, Tableau), Machine Learning (Sci-kit Learn), Deep Learning (Tensorflow, Pytorch)
-- 🎯 Goal: To turn raw data into actionable insights that help decision-making  
-- 🤝 Open to collaborating on data projects and internships  
-
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Languages**: Python, SQL, R  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow, Pytorch, Streamlit, FastAPI
 - **Databases**: MySQL, PostgreSQL  
