@@ -6,7 +6,7 @@
 - **Languages**: Python, SQL, R  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow, Pytorch, Streamlit, FastAPI
 - **Databases**: MySQL, PostgreSQL  
-- **Visualization**: Tableau, Power BI, Excel  
+- **Visualization**: Power BI, Excel  
 - **Other Tools**: Git, Jupyter Notebook, Google Workspace, Microsoft Office 365  
 
 ## Socials:
